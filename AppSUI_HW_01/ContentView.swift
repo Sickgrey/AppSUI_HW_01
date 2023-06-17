@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  AppSUI_HW_01
-//
-//  Created by Сергей Смирнов on 7/6/23.
-//
-
 import SwiftUI
 
 struct ContentView: View {
